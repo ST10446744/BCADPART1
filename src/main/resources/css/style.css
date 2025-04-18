@@ -1,0 +1,13 @@
+/* OnlyFans-inspired style */
+.root {
+    -fx-background-color: #fff;
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+.button {
+    -fx-background-color: #00aff0;
+    -fx-text-fill: white;
+    -fx-background-radius: 25px;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}

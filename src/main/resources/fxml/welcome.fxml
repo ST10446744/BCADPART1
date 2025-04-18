@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.onlyglobal.controllers.WelcomeController">
+    <VBox spacing="20.0" alignment="CENTER" prefWidth="400.0" prefHeight="300.0" layoutX="100" layoutY="100">
+        <Label text="OnlyGlobal" style="-fx-font-size: 36px; -fx-text-fill: #00aff0;" />
+        <Button text="Sign Up" fx:id="signUpBtn" />
+        <Button text="Login" fx:id="loginBtn" />
+    </VBox>
+</AnchorPane>
